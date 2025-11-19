@@ -1,0 +1,1 @@
+#utilizar o while true e o for (0,10)
